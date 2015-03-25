@@ -132,7 +132,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="index.html" />
-    <Content Include="scripts\frameworks\angular-resource.min.js" />
     <Content Include="scripts\frameworks\angular.min.js" />
     <Content Include="scripts\index.js" />
     <Content Include="scripts\platformOverrides.js" />
